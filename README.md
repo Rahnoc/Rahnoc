@@ -1,3 +1,1 @@
-<!-- -->
-
-### Seeking the light, chasing the truth.
+Seeking the light, chasing the truth.
